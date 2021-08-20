@@ -1,0 +1,13 @@
+/* main part  */
+/* button  */
+button {
+  background-color: white;
+}
+button:hover {
+  background-color: rgb(213, 214, 214);
+}
+
+/* last hr  */
+.last-hr {
+  border: 1px solid black;
+}
