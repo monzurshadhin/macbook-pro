@@ -55,7 +55,7 @@ function updatePromoTotal(totalCostId,promoCode) {
     const promoInput = document.getElementById('promo-input');
     
     if(promoInput.value == promoCode){
-        console.log(totalCostPrev-((totalCostPrev*20)/100))
+        
         totalCostField.innerText = totalCostPrev-((totalCostPrev*20)/100);
     }
 

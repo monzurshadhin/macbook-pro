@@ -2,6 +2,7 @@
 /* button  */
 button {
   background-color: white;
+  border: 1px solid #dee2e6;
 }
 button:hover {
   background-color: rgb(213, 214, 214);
